@@ -1,1 +1,1 @@
-# interviewhelpai-releases
+# interviewhelpai-desktop-app-releases
